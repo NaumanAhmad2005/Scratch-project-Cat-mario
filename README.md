@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly paste into your GitHub repo:
-
----
-
 # 🐱 Cat Mario (Scratch Game)
 
 A fun and challenging platformer game developed in **Scratch** as a first-semester project. This game is inspired by classic platform mechanics where the player controls a cat and navigates through multiple levels filled with obstacles, traps, and objectives.
@@ -40,7 +36,7 @@ A fun and challenging platformer game developed in **Scratch** as a first-semest
 | `A`                  | Move Left  |
 | `D`                  | Move Right |
 | `S`                  | Move Down  |
-| (Auto / Logic-based) | Jump       |
+| `W` (Logic-based)    | Jump       |
 
 ---
 
@@ -110,14 +106,14 @@ A fun and challenging platformer game developed in **Scratch** as a first-semest
 
 ## 📸 Screenshots
 
-*(Add screenshots of your game here if you want)*
+![alt text](<Screenshot from 2026-03-20 11-28-54.png>) ![alt text](<Screenshot from 2026-03-20 11-29-07.png>) ![alt text](<Screenshot from 2026-03-20 11-29-20.png>) ![alt text](<Screenshot from 2026-03-20 11-29-29.png>) ![alt text](<Screenshot from 2026-03-20 11-29-39.png>) ![alt text](<Screenshot from 2026-03-20 11-29-54.png>) ![alt text](<Screenshot from 2026-03-20 11-30-09.png>) ![alt text](<Screenshot from 2026-03-20 11-30-29.png>)
 
 ---
 
 ## 🚀 How to Run
 
-1. Open [Scratch](https://scratch.mit.edu/)
-2. Upload the project file (`.sb3`)
+1. Open [Scratch](https://scratch.mit.edu/) / Download it
+2. Upload the project file (`cat_mario.sb3`)
 3. Click the **Green Flag**
 4. Start playing!
 
